@@ -11,23 +11,23 @@ export default function Header() {
             <Logo />
           </div>
 
-          {/* Desktop sign in links */}
+          Your Vision, Our Code – Perfect Digital Experiences!
           <ul className="flex flex-1 items-center justify-end gap-3">
             <li>
-              <Link
+              {/* <Link
                 href="/signin"
                 className="btn-sm bg-white text-gray-800 shadow-sm hover:bg-gray-50"
               >
                 Login
-              </Link>
+              </Link> */}
             </li>
             <li>
-              <Link
+              {/* <Link
                 href="/signup"
                 className="btn-sm bg-gray-800 text-gray-200 shadow-sm hover:bg-gray-900"
               >
                 Register
-              </Link>
+              </Link> */}
             </li>
           </ul>
         </div>

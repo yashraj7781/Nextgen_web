@@ -39,7 +39,7 @@ export default function Cta() {
                 href="mailto:yashrajdhoni151@gmail.com"
               >
                 <span className="relative inline-flex items-center">
-                For inquiries {"mailto:yashrajdhoni151@gmail.com"}
+                For inquiries {""}
                   <span className="ml-1 tracking-normal text-blue-300 transition-transform group-hover:translate-x-0.5">
                     -&gt;
                   </span>
