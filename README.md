@@ -11,7 +11,7 @@ Created and maintained with ❤️ by [NextGen Web](https://nextgenweb.com/).
 
 ## Live demo
 
-Check the live demo here 👉️ [https://nextgenweb.com/demo](https://nextgenweb.com/demo)
+Check the live demo here 👉️ [https://nextgen-web.vercel.app/]
 
 ## Professional Services
 
